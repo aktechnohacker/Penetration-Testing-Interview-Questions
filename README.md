@@ -1,6 +1,10 @@
-# Penetration Testing Interview Questions
+<a href="https://www.buymeacoffee.com/cyberkhare" target="_blank"><img src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png" alt="Buy Me A Coffee" height="60" width="210" ></a>
 
+<h1 align="center">   Penetration Testing Interview Questions    </h1>
 
+<p align="center">  <img height="300" width="570" src="https://cdn.educba.com/academy/wp-content/uploads/2018/10/Penetration-Testing-Interview-Questions-1.jpg" > 
+
+ 
 ## General
 
 * What are the phases in the penetration testing lifecycle? (recon,scan,..)
